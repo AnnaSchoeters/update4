@@ -1691,17 +1691,6 @@ body {
 .cid-rhiHTBW2l2 .dropdown-item:hover {
   color: #767676 !important;
 }
-.cid-rhjOB3Z4Vg {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-rhjOB3Z4Vg P {
-  color: #767676;
-}
-.cid-rhjOB3Z4Vg H1 {
-  text-align: center;
-}
 .cid-rhiIljqiBS {
   background: #ffffff;
   padding-top: 60px;
@@ -1728,10 +1717,11 @@ body {
 }
 .cid-rlx8vTCq4O {
   background: #ffffff;
+  padding-top: 120px;
+  padding-bottom: 75px;
 }
 .cid-rlx8vTCq4O .image-block {
   margin: auto;
-  width: 100% !important;
 }
 .cid-rlx8vTCq4O .mbr-figure {
   margin: 0 auto;
